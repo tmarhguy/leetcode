@@ -82,6 +82,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/tmarhguy/leetcode/tree/master/0742-to-lower-case) |
 ## Stack
 |  |
 | ------- |
