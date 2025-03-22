@@ -28,6 +28,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0048-rotate-image](https://github.com/tmarhguy/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/tmarhguy/leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/tmarhguy/leetcode/tree/master/0118-pascals-triangle) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -81,6 +82,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tmarhguy/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/tmarhguy/leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
