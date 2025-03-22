@@ -56,6 +56,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tmarhguy/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/tmarhguy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/tmarhguy/leetcode/tree/master/0742-to-lower-case) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/tmarhguy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
 | ------- |
