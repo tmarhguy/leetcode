@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def getRow(self, rowIndex):
         master = [[1],[1,1]]
         numRows = rowIndex+1
