@@ -16,6 +16,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0202-happy-number](https://github.com/tmarhguy/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tmarhguy/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/tmarhguy/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tmarhguy/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/tmarhguy/leetcode/tree/master/2630-alternating-digit-sum) |
@@ -42,6 +43,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0189-rotate-array](https://github.com/tmarhguy/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tmarhguy/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tmarhguy/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -58,6 +60,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0202-happy-number](https://github.com/tmarhguy/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tmarhguy/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0035-search-insert-position](https://github.com/tmarhguy/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tmarhguy/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tmarhguy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -102,12 +106,14 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tmarhguy/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/tmarhguy/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
