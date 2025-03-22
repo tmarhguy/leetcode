@@ -1,5 +1,6 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
+        """
         x = str(x)
         left, right = 0, len(x) - 1
 
@@ -10,5 +11,7 @@ class Solution:
             else:
                 left += 1
                 right -= 1
-        return True
+        return True"""
+
+        return str(x) == str(x)[::-1]
         
