@@ -33,6 +33,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tmarhguy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tmarhguy/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tmarhguy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -44,6 +45,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | ------- |
 | [0001-two-sum](https://github.com/tmarhguy/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,4 +105,12 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tmarhguy/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
