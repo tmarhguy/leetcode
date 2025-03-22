@@ -12,6 +12,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tmarhguy/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tmarhguy/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/tmarhguy/leetcode/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/tmarhguy/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tmarhguy/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/tmarhguy/leetcode/tree/master/2630-alternating-digit-sum) |
@@ -34,6 +35,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0136-single-number](https://github.com/tmarhguy/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tmarhguy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tmarhguy/leetcode/tree/master/0189-rotate-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -66,6 +68,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tmarhguy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tmarhguy/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tmarhguy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tmarhguy/leetcode/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
