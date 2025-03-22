@@ -19,6 +19,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | ------- |
 | [0001-two-sum](https://github.com/tmarhguy/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/tmarhguy/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/tmarhguy/leetcode/tree/master/0035-search-insert-position) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -46,4 +47,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tmarhguy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/tmarhguy/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
