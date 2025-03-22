@@ -85,4 +85,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tmarhguy/leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/tmarhguy/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
