@@ -1,10 +1,12 @@
-class Solution(object):
-    def alternateDigitSum(self, n):
-        n = [int(digit) for digit in str(n)]
-        sum1 = 0
+class Solution:
+    def alternateDigitSum(self, n: int) -> int:
+        result = 0
+        n = str(n)
         for i in range(len(n)):
             if i%2 == 0:
-                sum1 += n[i]
+                result += int(n[i])
             else:
-                sum1 -= n[i]
-        return int(sum1)
+                result -= int(n[i])
+        return result
+
+        
