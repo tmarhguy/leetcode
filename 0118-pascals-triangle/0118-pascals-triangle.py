@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def generate(self, numRows):
         master = [[1],[1,1]]
         while len(master) < numRows:
