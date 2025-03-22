@@ -6,6 +6,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Math
 |  |
 | ------- |
+| [2383-add-two-integers](https://github.com/tmarhguy/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tmarhguy/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
