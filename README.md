@@ -54,6 +54,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tmarhguy/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tmarhguy/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0058-length-of-last-word](https://github.com/tmarhguy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tmarhguy/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tmarhguy/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
