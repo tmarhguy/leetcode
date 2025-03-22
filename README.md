@@ -39,6 +39,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tmarhguy/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tmarhguy/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/tmarhguy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -128,4 +129,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tmarhguy/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
