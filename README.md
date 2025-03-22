@@ -16,9 +16,14 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tmarhguy/leetcode/tree/master/0001-two-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tmarhguy/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
