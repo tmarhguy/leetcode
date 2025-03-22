@@ -14,6 +14,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0070-climbing-stairs](https://github.com/tmarhguy/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tmarhguy/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tmarhguy/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/tmarhguy/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tmarhguy/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/tmarhguy/leetcode/tree/master/2630-alternating-digit-sum) |
@@ -99,6 +100,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | ------- |
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/tmarhguy/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
