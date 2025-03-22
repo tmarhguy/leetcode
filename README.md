@@ -17,6 +17,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tmarhguy/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/tmarhguy/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tmarhguy/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/tmarhguy/leetcode/tree/master/2630-alternating-digit-sum) |
@@ -51,6 +52,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | ------- |
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tmarhguy/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -77,6 +79,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0344-reverse-string](https://github.com/tmarhguy/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
