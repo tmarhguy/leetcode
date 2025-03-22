@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def isHappy(self, n):
         
         if n == 7 or n == 10: return True
