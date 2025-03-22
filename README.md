@@ -29,6 +29,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [2630-alternating-digit-sum](https://github.com/tmarhguy/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/tmarhguy/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/tmarhguy/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/tmarhguy/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Number Theory
 |  |
 | ------- |
