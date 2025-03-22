@@ -12,6 +12,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tmarhguy/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tmarhguy/leetcode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/tmarhguy/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/tmarhguy/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tmarhguy/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tmarhguy/leetcode/tree/master/0202-happy-number) |
@@ -95,6 +96,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0058-length-of-last-word](https://github.com/tmarhguy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tmarhguy/leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/tmarhguy/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tmarhguy/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
