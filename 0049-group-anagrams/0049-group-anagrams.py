@@ -16,20 +16,4 @@ class Solution:
                 hash_result[key].append(word)
         
         return list(hash_result.values())
-        """
-
-        hash_result = defaultdict(list)
-
-        for word in strs:
-
-            count = [0] * 26
-
-            for char in word:
-                count[ord(char) - ord("a")] += 1
-
-            key = tuple(count)
-
-            hash_result[key].append(word)
-
-        return list(hash_result.values())
-        """
+      
