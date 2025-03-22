@@ -62,6 +62,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tmarhguy/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tmarhguy/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3226-minimum-number-game](https://github.com/tmarhguy/leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tmarhguy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3226-minimum-number-game](https://github.com/tmarhguy/leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
+| [3226-minimum-number-game](https://github.com/tmarhguy/leetcode/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3226-minimum-number-game](https://github.com/tmarhguy/leetcode/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
