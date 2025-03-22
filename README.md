@@ -18,6 +18,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tmarhguy/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/tmarhguy/leetcode/tree/master/0027-remove-element) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -35,4 +36,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tmarhguy/leetcode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/tmarhguy/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
