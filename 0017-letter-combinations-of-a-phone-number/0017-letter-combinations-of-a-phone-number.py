@@ -18,10 +18,9 @@ class Solution:
                     result.append(element+other)
             return result
 
-        temp = []
 
         if len(str(digits)) == 0:
-            return temp
+            return []
 
         elif len(str(digits)) == 1:
             temp = combine("1",str(digits))
