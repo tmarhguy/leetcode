@@ -89,6 +89,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/tmarhguy/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
@@ -104,6 +105,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0168-excel-sheet-column-title](https://github.com/tmarhguy/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tmarhguy/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/tmarhguy/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
@@ -188,6 +190,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | ------- |
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/tmarhguy/leetcode/tree/master/0383-ransom-note) |
 ## Recursion
 |  |
 | ------- |
