@@ -81,6 +81,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tmarhguy/leetcode/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tmarhguy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tmarhguy/leetcode/tree/master/0202-happy-number) |
@@ -93,6 +94,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tmarhguy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tmarhguy/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tmarhguy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
@@ -219,4 +221,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/tmarhguy/leetcode/tree/master/0593-valid-square) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tmarhguy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
