@@ -20,6 +20,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0258-add-digits](https://github.com/tmarhguy/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
+| [0593-valid-square](https://github.com/tmarhguy/leetcode/tree/master/0593-valid-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tmarhguy/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/tmarhguy/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tmarhguy/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -214,4 +215,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tmarhguy/leetcode/tree/master/0739-daily-temperatures) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/tmarhguy/leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
