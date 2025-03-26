@@ -3,7 +3,8 @@ class Solution:
         left, right, temp_max = 0,(len(height) - 1),0
 
         while left < right:
-            area = min(height[left], height[right]) * (right - left)
+            area = min(height[left], height[right])
+            area *= (right - left)
 
             if height[left] < height[right]:
                 left += 1
