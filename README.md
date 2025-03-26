@@ -111,6 +111,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/tmarhguy/leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/tmarhguy/leetcode/tree/master/0812-rotate-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tmarhguy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2235-capitalize-the-title](https://github.com/tmarhguy/leetcode/tree/master/2235-capitalize-the-title) |
 | [3379-score-of-a-string](https://github.com/tmarhguy/leetcode/tree/master/3379-score-of-a-string) |
@@ -135,6 +136,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tmarhguy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/tmarhguy/leetcode/tree/master/0812-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
