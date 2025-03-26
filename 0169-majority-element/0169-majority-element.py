@@ -1,11 +1,16 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        hash_nums = defaultdict(int)
+        count = 0
+        temp = nums[0]
 
-        for num in nums:
-            hash_nums[num] += 1
-        
-        max_count = max(hash_nums, key = hash_nums.get)
-
-        return max_count
-        
+        for i in range(1,len(nums)):
+            if nums[i] == temp:
+                count += 1
+            else:
+                if count > 0:
+                    count -= 1
+                elif count == 0:
+                    temp = nums[i]
+                
+        return temp
+            
