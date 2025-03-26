@@ -44,6 +44,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tmarhguy/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/tmarhguy/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/tmarhguy/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tmarhguy/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/tmarhguy/leetcode/tree/master/0048-rotate-image) |
@@ -121,6 +122,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tmarhguy/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/tmarhguy/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tmarhguy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tmarhguy/leetcode/tree/master/0125-valid-palindrome) |
@@ -228,4 +230,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tmarhguy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tmarhguy/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
