@@ -5,5 +5,9 @@ class Solution:
         elif n == 1:
             return 1
         else:
-            return self.fib(n-1) + self.fib(n-2)
+            first, second = 0,1
+            for i in range(n):
+                third = first+ second
+                first, second = second, third
+            return first
         
