@@ -16,9 +16,6 @@ class Solution:
         x = int(x)
 
         x *= state
-
-        print("x",x)
-        print("int min", INT_MIN)
         
         if x < INT_MIN or x > INT_MAX:
             return 0
