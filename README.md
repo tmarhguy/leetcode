@@ -6,6 +6,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tmarhguy/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tmarhguy/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/tmarhguy/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tmarhguy/leetcode/tree/master/0066-plus-one) |
