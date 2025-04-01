@@ -68,6 +68,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0739-daily-temperatures](https://github.com/tmarhguy/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tmarhguy/leetcode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tmarhguy/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/tmarhguy/leetcode/tree/master/1580-shuffle-the-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tmarhguy/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tmarhguy/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
