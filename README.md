@@ -64,6 +64,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0238-product-of-array-except-self](https://github.com/tmarhguy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/tmarhguy/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/tmarhguy/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tmarhguy/leetcode/tree/master/0792-binary-search) |
@@ -180,6 +181,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0119-pascals-triangle-ii](https://github.com/tmarhguy/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tmarhguy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/tmarhguy/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/tmarhguy/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tmarhguy/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
