@@ -70,6 +70,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0792-binary-search](https://github.com/tmarhguy/leetcode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tmarhguy/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/tmarhguy/leetcode/tree/master/1580-shuffle-the-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tmarhguy/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tmarhguy/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -98,6 +99,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0383-ransom-note](https://github.com/tmarhguy/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0202-happy-number](https://github.com/tmarhguy/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tmarhguy/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3226-minimum-number-game](https://github.com/tmarhguy/leetcode/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
 |  |
