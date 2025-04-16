@@ -70,6 +70,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0792-binary-search](https://github.com/tmarhguy/leetcode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tmarhguy/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/tmarhguy/leetcode/tree/master/1580-shuffle-the-array) |
+| [1656-count-good-triplets](https://github.com/tmarhguy/leetcode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/tmarhguy/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tmarhguy/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -236,6 +237,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/tmarhguy/leetcode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/tmarhguy/leetcode/tree/master/2083-three-divisors) |
 ## Monotonic Stack
 |  |
