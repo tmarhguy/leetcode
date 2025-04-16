@@ -11,6 +11,12 @@ class Solution:
                             if abs(arr[x] - arr[z]) <= c:
                                 count += 1
 
+                            else:
+                                continue
+                        else:
+                            continue
+                    else:
+                        continue
         return count
 
         
