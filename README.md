@@ -71,6 +71,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tmarhguy/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/tmarhguy/leetcode/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/tmarhguy/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tmarhguy/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tmarhguy/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -218,6 +219,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tmarhguy/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/tmarhguy/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
