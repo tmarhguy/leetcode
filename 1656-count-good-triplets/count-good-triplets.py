@@ -6,17 +6,9 @@ class Solution:
         for x in range(size):
             for y in range(x+1,size):
                 for z in range(y+1, size):
-                    if abs(arr[x] - arr[y]) <= a:
-                        if abs(arr[y] - arr[z]) <= b:
-                            if abs(arr[x] - arr[z]) <= c:
+                    if abs(arr[x] - arr[y]) <= a and abs(arr[y] - arr[z]) <= b and abs(arr[x] - arr[z]) <= c:
                                 count += 1
 
-                            else:
-                                continue
-                        else:
-                            continue
-                    else:
-                        continue
         return count
 
         
