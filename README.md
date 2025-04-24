@@ -20,6 +20,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tmarhguy/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/tmarhguy/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
 | [0593-valid-square](https://github.com/tmarhguy/leetcode/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/tmarhguy/leetcode/tree/master/1013-fibonacci-number) |
@@ -178,6 +179,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0136-single-number](https://github.com/tmarhguy/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/tmarhguy/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
@@ -215,6 +217,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/tmarhguy/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/tmarhguy/leetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
