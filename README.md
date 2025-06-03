@@ -74,6 +74,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [1656-count-good-triplets](https://github.com/tmarhguy/leetcode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/tmarhguy/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2058-concatenation-of-array](https://github.com/tmarhguy/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tmarhguy/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tmarhguy/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -84,6 +85,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tmarhguy/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
+| [2058-concatenation-of-array](https://github.com/tmarhguy/leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tmarhguy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/tmarhguy/leetcode/tree/master/3226-minimum-number-game) |
