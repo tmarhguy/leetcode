@@ -1,6 +1,12 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        countS = Counter(s)
-        countT = Counter(t)
+        s_map = defaultdict(int)
 
-        return countS == countT
+        for char in s:
+            s_map[char] += 1
+        
+        for char in t:
+            s_map[char] -= 1
+
+        return all(value == 0 for value in s_map.values())
+        
