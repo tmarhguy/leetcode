@@ -1,6 +1,6 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        """
+
         answer = ""
         s_min = len(min(strs))
         state = False
@@ -12,6 +12,7 @@ class Solution:
             else:
                 return answer
         return answer
+        
         """
 
         prefix = strs[0]
@@ -22,4 +23,4 @@ class Solution:
                 if not prefix:
                     return ""
         return prefix
-        
+        """
