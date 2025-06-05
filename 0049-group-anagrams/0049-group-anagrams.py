@@ -1,19 +1,16 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hash_result = {}
+        if len(strs) == 1: return [strs]
+        hash_set = defaultdict(list)
+        char_list = [0] * 26
 
         for word in strs:
-            count = [0] * 26
-
             for char in word:
-                count[ord(char) - ord("a")] += 1
-            
-            key = tuple(count)
+                char_list[ord(char) - ord('a')] += 1
+            hash_set[tuple(char_list)].append(word)
+            char_list = [0]*26
 
-            if key not in hash_result:
-                hash_result[key] = [word]
-            else:
-                hash_result[key].append(word)
+        return list(hash_set.values())
+
         
-        return list(hash_result.values())
-      
+        
