@@ -9,6 +9,7 @@ class Solution:
             key = tuple(key)
             hash_set[key].append(word)
             key = [0 for _ in range(26)]
+            
         return list(hash_set.values())
 
         
