@@ -132,6 +132,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tmarhguy/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/tmarhguy/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/tmarhguy/leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -265,4 +266,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tmarhguy/leetcode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tmarhguy/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
