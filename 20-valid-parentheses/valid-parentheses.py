@@ -7,10 +7,9 @@ class Solution:
         for char in s:
             if char in valid:
                 stack.append(char)
+            elif stack and char == valid[stack[-1]]:
+                stack.pop()
             else:
-                if stack and char == valid[stack[-1]]:
-                    stack.pop()
-                else:
-                    return False
+                return False
         return True and not stack
         
