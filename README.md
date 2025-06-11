@@ -270,4 +270,13 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tmarhguy/leetcode/tree/master/0155-min-stack) |
+| [0969-number-of-recent-calls](https://github.com/tmarhguy/leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/tmarhguy/leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/tmarhguy/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
