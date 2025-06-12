@@ -106,6 +106,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tmarhguy/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tmarhguy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2235-capitalize-the-title](https://github.com/tmarhguy/leetcode/tree/master/2235-capitalize-the-title) |
 | [3379-score-of-a-string](https://github.com/tmarhguy/leetcode/tree/master/3379-score-of-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tmarhguy/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tmarhguy/leetcode/tree/master/0383-ransom-note) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tmarhguy/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Recursion
 |  |
 | ------- |
