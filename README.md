@@ -79,6 +79,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tmarhguy/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/tmarhguy/leetcode/tree/master/3226-minimum-number-game) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tmarhguy/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Simulation
 |  |
 | ------- |
