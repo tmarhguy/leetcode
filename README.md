@@ -19,6 +19,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0202-happy-number](https://github.com/tmarhguy/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tmarhguy/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/tmarhguy/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tmarhguy/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
