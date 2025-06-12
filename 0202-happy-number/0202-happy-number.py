@@ -1,10 +1,11 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         def happy(n):
-            answer = 0
-            for char in str(n):
-                answer += int(char) ** 2
-            return answer
+            total = 0
+            while n > 0:
+                total += (n % 10) ** 2
+                n //= 10
+            return total
         
         seen = set()
         while n != 1 and n not in seen:
