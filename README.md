@@ -71,6 +71,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/tmarhguy/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tmarhguy/leetcode/tree/master/0792-binary-search) |
+| [1364-tuple-with-same-product](https://github.com/tmarhguy/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tmarhguy/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/tmarhguy/leetcode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/tmarhguy/leetcode/tree/master/1656-count-good-triplets) |
@@ -107,6 +108,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0383-ransom-note](https://github.com/tmarhguy/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1364-tuple-with-same-product](https://github.com/tmarhguy/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tmarhguy/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -223,6 +225,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tmarhguy/leetcode/tree/master/0383-ransom-note) |
+| [1364-tuple-with-same-product](https://github.com/tmarhguy/leetcode/tree/master/1364-tuple-with-same-product) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tmarhguy/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Recursion
 |  |
