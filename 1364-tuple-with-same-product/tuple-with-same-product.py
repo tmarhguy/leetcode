@@ -9,6 +9,6 @@ class Solution:
                 seen[prod] += 1
         for value in seen.values():
             if value >= 2:
-                count += int(value * (value - 1) / 2)
+                count += int(math.comb(value,2))
         return count * 8
         
