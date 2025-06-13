@@ -9,6 +9,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0007-reverse-integer](https://github.com/tmarhguy/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tmarhguy/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/tmarhguy/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/tmarhguy/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tmarhguy/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tmarhguy/leetcode/tree/master/0069-sqrtx) |
@@ -192,6 +193,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tmarhguy/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tmarhguy/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tmarhguy/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tmarhguy/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -284,4 +286,8 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/tmarhguy/leetcode/tree/master/0969-number-of-recent-calls) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tmarhguy/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
