@@ -7,9 +7,8 @@ class Solution:
             for j in range(i+1,len(nums)):
                 prod = nums[i] * nums[j]
                 seen[prod] += 1
-
         for value in seen.values():
             if value >= 2:
-                count += math.comb(value,2)
+                count += int(value * (value - 1) / 2)
         return count * 8
         
