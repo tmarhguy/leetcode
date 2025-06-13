@@ -118,6 +118,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tmarhguy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tmarhguy/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tmarhguy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/tmarhguy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tmarhguy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tmarhguy/leetcode/tree/master/0067-add-binary) |
@@ -139,6 +140,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tmarhguy/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tmarhguy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/tmarhguy/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/tmarhguy/leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
@@ -195,6 +197,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/tmarhguy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/tmarhguy/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tmarhguy/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tmarhguy/leetcode/tree/master/0118-pascals-triangle) |
