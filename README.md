@@ -55,6 +55,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0035-search-insert-position](https://github.com/tmarhguy/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/tmarhguy/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tmarhguy/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/tmarhguy/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/tmarhguy/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tmarhguy/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -178,6 +179,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tmarhguy/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tmarhguy/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/tmarhguy/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tmarhguy/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tmarhguy/leetcode/tree/master/0242-valid-anagram) |
