@@ -220,6 +220,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tmarhguy/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tmarhguy/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/tmarhguy/leetcode/tree/master/1013-fibonacci-number) |
