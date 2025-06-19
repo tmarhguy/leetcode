@@ -305,4 +305,20 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tmarhguy/leetcode/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tmarhguy/leetcode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tmarhguy/leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tmarhguy/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tmarhguy/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
