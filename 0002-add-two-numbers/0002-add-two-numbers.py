@@ -18,6 +18,7 @@ class Solution:
 
         answers = [int(value) for value in str(l1_sum + l2_sum)]
         answers.reverse()
+
         dummy = ListNode()
         current = dummy
 
