@@ -6,6 +6,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tmarhguy/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tmarhguy/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tmarhguy/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/tmarhguy/leetcode/tree/master/0048-rotate-image) |
@@ -221,6 +222,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tmarhguy/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tmarhguy/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -240,6 +242,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tmarhguy/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0234-palindrome-linked-list) |
