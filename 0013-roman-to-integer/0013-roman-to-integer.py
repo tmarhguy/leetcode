@@ -1,7 +1,6 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        seen = []
-        answer = 0
+        answer,i = 0,0
         nums = {'I':1,
         'V':5,
         'X':10,
@@ -9,21 +8,13 @@ class Solution:
         'C':100,
         'D':500,
         'M':1000}
-
-        for num in s:
-            seen.append(nums[num])
-
-        print("seen", seen)
-
-        i = 0
-
-        while i < len(seen) - 1:
-            if seen[i] >= seen[i+1]:
-                answer += seen[i]
+        while i < len(s) - 1:
+            if nums[s[i]] >= nums[s[i+1]]:
+                answer += nums[s[i]]
             else:
-                answer -= seen[i]
+                answer -= nums[s[i]]
             i += 1
-        return answer + seen[i]
+        return answer + nums[s[i]]
 
 
 
