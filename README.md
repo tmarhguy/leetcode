@@ -142,6 +142,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0415-add-strings](https://github.com/tmarhguy/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/tmarhguy/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/tmarhguy/leetcode/tree/master/0812-rotate-string) |
+| [1894-merge-strings-alternately](https://github.com/tmarhguy/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tmarhguy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2235-capitalize-the-title](https://github.com/tmarhguy/leetcode/tree/master/2235-capitalize-the-title) |
 | [3379-score-of-a-string](https://github.com/tmarhguy/leetcode/tree/master/3379-score-of-a-string) |
@@ -169,6 +170,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0344-reverse-string](https://github.com/tmarhguy/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tmarhguy/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/tmarhguy/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
