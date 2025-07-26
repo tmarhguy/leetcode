@@ -53,6 +53,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | ------- |
 | [0001-two-sum](https://github.com/tmarhguy/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/tmarhguy/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/tmarhguy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/tmarhguy/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tmarhguy/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/tmarhguy/leetcode/tree/master/0048-rotate-image) |
