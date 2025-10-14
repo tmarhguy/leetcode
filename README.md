@@ -75,6 +75,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tmarhguy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/tmarhguy/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tmarhguy/leetcode/tree/master/0792-binary-search) |
+| [1127-last-stone-weight](https://github.com/tmarhguy/leetcode/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/tmarhguy/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tmarhguy/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/tmarhguy/leetcode/tree/master/1580-shuffle-the-array) |
@@ -268,6 +269,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tmarhguy/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/tmarhguy/leetcode/tree/master/1127-last-stone-weight) |
 | [3226-minimum-number-game](https://github.com/tmarhguy/leetcode/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
