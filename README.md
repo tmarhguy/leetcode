@@ -211,6 +211,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0136-single-number](https://github.com/tmarhguy/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/tmarhguy/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tmarhguy/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/tmarhguy/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tmarhguy/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/tmarhguy/leetcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
@@ -222,6 +223,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0118-pascals-triangle](https://github.com/tmarhguy/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tmarhguy/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tmarhguy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/tmarhguy/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tmarhguy/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/tmarhguy/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/tmarhguy/leetcode/tree/master/1013-fibonacci-number) |
