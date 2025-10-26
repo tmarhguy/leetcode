@@ -242,6 +242,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0141-linked-list-cycle](https://github.com/tmarhguy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
