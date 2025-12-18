@@ -30,6 +30,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0593-valid-square](https://github.com/tmarhguy/leetcode/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/tmarhguy/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tmarhguy/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tmarhguy/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tmarhguy/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/tmarhguy/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tmarhguy/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -244,6 +245,7 @@ A collection of my solutions to LeetCode problems. Includes well-documented code
 | [0206-reverse-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tmarhguy/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tmarhguy/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
