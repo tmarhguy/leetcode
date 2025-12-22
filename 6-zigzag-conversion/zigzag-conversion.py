@@ -1,27 +1,20 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        if numRows <= 1: return s
+        if numRows <= 1 or numRows >= len(s): return s
         
-        hashmap = dict()
-
-        for i in range(numRows):
-            hashmap[i] = ""
-
+        hlist = [[] for _ in range(numRows)]
         n = 0
         idx = 0
-
-        print(hashmap)
         numRows -= 1
 
         while n < len(s):
             idx = numRows - abs((n % (2 * numRows))-numRows)
     
-            hashmap[idx] += s[n]
-            print(idx)
+            hlist[idx].append(s[n])
             n += 1
-        result = list(hashmap.values())
 
-        print(hashmap)
+        result = ["".join(l) for l in hlist]
+
         return "".join(result)
 
 
