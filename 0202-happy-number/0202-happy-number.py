@@ -1,16 +1,14 @@
-class Solution:
-    def isHappy(self, n: int) -> bool:
-        def happy(n):
-            total = 0
-            while n > 0:
-                total += (n % 10) ** 2
-                n //= 10
-            return total
-        
+class Solution(object):
+    def isHappy(self, n):
+        temp = []
         seen = set()
-        while n != 1 and n not in seen:
-            seen.add(n)
-            n = happy(n)
 
-        return n == 1
+        while (n != 1):
+            temp = [(int(x))**2 for x in str(n)]
+            n = sum(temp)
+            if n not in seen:
+                seen.add(n)
+            else:
+                return False
+        return True
         
