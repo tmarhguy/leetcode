@@ -10,9 +10,7 @@ class Solution:
             hash_map[s[i]] += 1
             hash_map[t[i]] -= 1
 
-        for _, value in hash_map.items():
-            if value != 0: return False
 
-        return True
+        return all(value == 0 for value in hash_map.values())
 
         
