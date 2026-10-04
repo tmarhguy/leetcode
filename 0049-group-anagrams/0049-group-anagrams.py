@@ -1,17 +1,17 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hash_set = defaultdict(list)
-        # key = [0 for _ in range(26)]
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+
+        hash_map = defaultdict(list)
 
         for word in strs:
-            """
-            for char in word:
-                key[ord(char) - ord('a')] += 1
-            """
-            key = tuple(sorted(word))
-            hash_set[key].append(word)
-            # key = [0 for _ in range(26)]
 
-        return list(hash_set.values())
+            temp = [0] * 26 
+
+            for char in word:
+                temp[ord(char) - ord('a')] += 1
+
+            hash_map[tuple(temp)].append(word)
+        
+        return list(hash_map.values())
 
         
