@@ -15,10 +15,6 @@ class Solution:
         for i in range(len(freq) - 1, -1, -1):
             if freq[i]:
                 for num in freq[i]:
-                    if len(answer) < k:
-                        answer.append(num)
-                    if len(answer) == k: return answer
-
-           
-
-        
+                    answer.append(num)
+                    if len(answer) == k:
+                        return answer
